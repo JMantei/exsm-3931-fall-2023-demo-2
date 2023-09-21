@@ -6,4 +6,4 @@ A demo repository for EXSM3931
 
 Here is some cool content for the README!
 
-Here's a change in the second clone... What will happen now?
+Here's a change in the second clone... What will happen now? We solved the merge conflict.
