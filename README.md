@@ -1,2 +1,7 @@
 # exsm-3931-fall-2023-demo-2
+
 A demo repository for EXSM3931
+
+## Additional Content
+
+Here is some cool content for the README!
